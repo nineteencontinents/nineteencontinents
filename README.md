@@ -1,4 +1,5 @@
-### Hi there 👋
+
+###     ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nineteencontinents&show_icons=true&theme=tokyonight)
 
 <!--
 **nineteencontinents/nineteencontinents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
